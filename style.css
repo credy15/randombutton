@@ -1,0 +1,28 @@
+/* Style the entire page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    text-align: center;
+    padding: 50px;
+}
+
+/* Style the header section */
+header {
+    background-color: #1583cc;
+    color: white;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+/* Style the button */
+button {
+    background-color: #ff4757;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+}
